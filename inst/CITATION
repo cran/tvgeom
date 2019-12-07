@@ -5,12 +5,12 @@ citEntry(entry = "Manual",
   author       = personList(as.person("Vincent A. Landau"),
                    as.person("Luke J. Zachmann")),
   year         = "2019",
-  note         = "R package version X.Y.Z",
+  note         = "R package version 1.0.1",
   url          = "https://gitlab.com/actionable-phenology/tvgeom/",
 
   textVersion  =
   paste("Landau, V. A. and L. J. Zachmann (2019).",
         "tvgeom: an R package for the time-varying geometric distribution.",
-        "R package version X.Y.Z.",
+        "R package version 1.0.1.",
         "URL https://gitlab.com/actionable-phenology/tvgeom/.")
 )
